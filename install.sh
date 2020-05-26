@@ -148,4 +148,4 @@ echo "v2ray Panel - VpsPack Successfully installed"
 #清理垃圾文件
 rm -rf /root/config.json
 rm -rf /root/install-debian.sh
-rm install.sh
+rm /root/install.sh
