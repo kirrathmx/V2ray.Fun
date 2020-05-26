@@ -24,5 +24,5 @@
 ## 一Key installation
 
 Currently in the testing stage, there is no guarantee that the one-click script can be successfully installed
-> wget -N --no-check-certificate https://raw.githubusercontent.com/kirrathmx/v2/master/install.sh && bash install.sh
+> wget -N --no-check-certificate https://raw.githubusercontent.com/kirrathmx/v2ray.fun/master/install.sh && bash install.sh
 
